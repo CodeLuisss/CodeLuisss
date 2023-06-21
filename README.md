@@ -8,8 +8,8 @@
 </div>
 
 <div align="center">  
-<a href="https://www.instagram.com/olulinsemz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://open.spotify.com/playlist/0ac1VhGoaz2dnHR8HHU2z0?si=8fc0c1b7ff4a4735" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://www.instagram.com/olulinsemz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://open.spotify.com/playlist/0ac1VhGoaz2dnHR8HHU2z0?si=8fc0c1b7ff4a4735"target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </div> 
  
 ### Main skills:
