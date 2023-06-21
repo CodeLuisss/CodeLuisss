@@ -37,4 +37,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{devlulin}/count.svg" /></p> 
 <br></div>
 
+## Contato:
+- Email: luishenrique.mendes2004@gmail.com
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
