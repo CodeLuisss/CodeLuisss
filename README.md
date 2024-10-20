@@ -32,7 +32,7 @@
 ### Studying in this moment:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
-[![roadmap.sh](https://roadmap.sh/card/tall/670b2b93791f57dd60876628?variant=dark&roadmaps=frontend%2Cbackend%2Cfull-stack%2Cpython)](https://roadmap.sh)&nbsp;
+[![roadmap.sh](https://roadmap.sh/card/wide/670b2b93791f57dd60876628?variant=dark)](https://roadmap.sh)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
