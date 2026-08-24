@@ -1,7 +1,5 @@
-<br>
-
 <div align="center">
-  <img width="30%" src="https://github.com/CodeLuisss/CodeLuisss/blob/main/jjk.gif" alt="Megumi Fushiguro">
+  <img width="33%" src="https://github.com/CodeLuisss/CodeLuisss/blob/main/jjk.gif" alt="Megumi Fushiguro">
 </div>
 
 <div align="center">
@@ -62,6 +60,12 @@
   [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/codeluisss/)
   
 </div>
+
+<div align="center">
+  <img width="30%" src="https://github.com/CodeLuisss/CodeLuisss/blob/main/sonic.gif" alt="Monaco F1">
+</div>
+
+##
 
 <br>
 
