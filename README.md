@@ -1,7 +1,7 @@
 <br>
 
 <div align="center">
-  <img width="33%" src="https://github.com/hak553/photoToProfile/blob/main/Programming%20Computer.svg" alt="Developer Laptop">
+  <img width="30%" src="https://github.com/CodeLuisss/CodeLuisss/blob/main/jjk.gif" alt="Megumi Fushiguro">
 </div>
 
 <div align="center">
@@ -15,10 +15,9 @@
 
 <div align="center" width="100%">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Computer+Science;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=5CBDFF&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Computer+Science;Be+welcome!" alt="Typing SVG"/>
 </div>
       
-<br>
 <br>
       
 <div align="center">
@@ -35,7 +34,8 @@
 </div>
 
 <br>
-<br>
+
+##
 
 <details align="center">  
   <summary>
@@ -68,7 +68,5 @@
 <br>
 
 </details>
-
-##
 
 <br>
