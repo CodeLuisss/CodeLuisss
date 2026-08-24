@@ -70,5 +70,3 @@
 <br>
 
 </details>
-
-<br>
